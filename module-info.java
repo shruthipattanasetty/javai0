@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author spatt
+ *
+ */
+module JavaIOPractice {
+}
